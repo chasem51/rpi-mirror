@@ -4,6 +4,6 @@ Magic Mirror 2 implementation of APIs/live widgets such as local weather, newsfe
 Default app view scaffolding can be cloned by --> git clone https://github.com/MichMich/MagicMirror
 
 To run, 
-Install Chocolatey/Homebrew package magager - Windows/macOS --> choco install yarn/brew install yarn
+Install Chocolatey/Homebrew package magager - Windows/macOS --> choco install yarn/brew install yarn.
 Then within calenview directory --> yarn start
 ![](appview.png)
