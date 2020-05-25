@@ -5,7 +5,6 @@ Default app view scaffolding can be cloned by --> git clone https://github.com/M
 
 To run, within the ~/MagicMirror directory, run -> npm start
 
-My installation is run by the fork -> pm2 start MagicMirror
-To allow for application's auto-boot with the pi.
+To allow for application's auto-boot my installation is run by the fork -> pm2 start MagicMirror
 
 ![](appview.png)
